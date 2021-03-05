@@ -268,7 +268,7 @@ img {
 /* Контейнер футера */
 .footer .container {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   padding-top: 60px;
   padding-bottom: 60px;
 }
